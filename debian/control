@@ -1,0 +1,38 @@
+Source: kramden-desktop
+Section: x11
+Priority: optional
+Maintainer: Ken VanDine <ken.vandine@ubuntu.com>
+Build-Depends: debhelper (>= 13),
+Standards-Version: 4.1.3
+
+Package: kramden-desktop
+Architecture: amd64
+Depends: kramden-override,
+Recommends: gimp,
+ scratch,
+ landscape-client,
+ audacity,
+ gcompris-qt,
+ inkscape,
+ krita,
+ openshot-qt,
+ gir1.2-webkit2-4.1,
+ libfuse2,
+ cheese,
+ aisleriot,
+ gnome-mahjongg,
+ gnome-mines,
+ gnome-sudoku,
+ branding-ubuntu,
+ libreoffice-style-yaru,
+ libreoffice-gnome,
+ libreoffice-writer,
+ libreoffice-calc,
+ libreoffice-impress,
+ libreoffice-math,
+ simple-scan,
+ shotwell,
+ ubuntu-restricted-addons,
+ ubuntu-restricted-extras
+Description: Kramden Desktop Meta package
+ The default set of package for a Kramden install of Ubuntu.
