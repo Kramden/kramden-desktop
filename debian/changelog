@@ -1,3 +1,10 @@
+kramden-desktop (0.0.2) mantic; urgency=medium
+
+  * debian/control
+    - Fixed depends on kramden-overrides
+
+ -- Ken VanDine <ken.vandine@canonical.com>  Mon, 29 Jan 2024 18:02:14 -0500
+
 kramden-desktop (0.0.1) mantic; urgency=medium
 
   * Initial package

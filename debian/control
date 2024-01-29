@@ -7,7 +7,7 @@ Standards-Version: 4.1.3
 
 Package: kramden-desktop
 Architecture: amd64
-Depends: kramden-override,
+Depends: kramden-overrides,
 Recommends: gimp,
  scratch,
  landscape-client,
