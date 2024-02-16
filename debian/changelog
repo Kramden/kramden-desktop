@@ -1,3 +1,10 @@
+kramden-desktop (0.0.3-0) UNRELEASED; urgency=medium
+
+  * debian/control debian/compat
+    - downgrade debhelper requirement to 12
+
+ -- Kramden Pkg Bot <ken+kramden-pkg-bot@vandine.org>  Fri, 16 Feb 2024 16:43:05 -0500
+
 kramden-desktop (0.0.2) mantic; urgency=medium
 
   * debian/control
