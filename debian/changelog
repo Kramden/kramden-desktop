@@ -1,4 +1,10 @@
-kramden-desktop (0.0.4-0) UNRELEASED; urgency=medium
+kramden-desktop (0.0.5-0) noble; urgency=medium
+
+  * Prepare for noble
+
+ -- Ken VanDine <ken.vandine@canonical.com>  Fri, 26 Apr 2024 10:09:11 -0400
+
+kramden-desktop (0.0.4-0) mantic; urgency=medium
 
   * debian/control
     - turn the recommends into depends to ensure they get installed
